@@ -22,7 +22,7 @@ END
 ## Pseudocode Dokumen Bisnis
 
 ```
-BEGIN
+MULAI
     Minta pengguna memasukkan jumlah bilangan Fibonacci (n)
     Untuk setiap angka dari 0 sampai n-1:
         Hitung nilai Fibonacci menggunakan aturan:
