@@ -1,6 +1,6 @@
 # Bahasa C Deret Fibonaci
 
-## Pseudocode
+## Pseudocode Teknis
 
 ```
 BEGIN
@@ -17,6 +17,19 @@ BEGIN
         OUTPUT fibonacci(i)
     ENDFOR
 END
+```
+
+## Pseudocode Dokumen Bisnis
+
+```
+BEGIN
+    Minta pengguna memasukkan jumlah bilangan Fibonacci (n)
+    Untuk setiap angka dari 0 sampai n-1:
+        Hitung nilai Fibonacci menggunakan aturan:
+            - Jika angka <= 1, nilainya adalah angka itu sendiri
+            - Jika lebih besar, jumlahkan dua angka sebelumnya
+        Tampilkan hasil
+SELESAI
 ```
 
 created by: Priti Fahira Yunita at 10/9/2025
