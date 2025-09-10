@@ -2,7 +2,7 @@
 
 ## 1. Pseudocode
 
-```pseudocode
+```
 BEGIN
     INPUT kondisi_sepeda
     IF kondisi_sepeda = "baik" THEN
